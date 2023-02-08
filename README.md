@@ -8,7 +8,7 @@
   and small games with PyGame as a hobby.
 
 ## Languages and Tools
-[![Languages and Tools](https://skills.thijs.gg/icons?i=html,css,js,py,flask,django)](https://skills.thijs.gg)
+[![Languages and Tools](https://skills.thijs.gg/icons?i=html,css,js,py,flask,django,git)](https://skills.thijs.gg)
 
 
 ## My Stats
