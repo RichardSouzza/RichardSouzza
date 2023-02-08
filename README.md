@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hello devs!
 
-<!--
-**RichardSouzza/RichardSouzza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :man_technologist: I'm Richard, backend developer.
 
-Here are some ideas to get you started:
+- :book: I know Python, Flask and I'm currently learning Django.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :video_game: I also make mobile apps with KivyMD
+  and small games with PyGame as a hobby.
+
+## Languages and Tools
+[![Languages and Tools](https://skills.thijs.gg/icons?i=html,css,js,py,flask,django)](https://skills.thijs.gg)
+
+
+## My Stats
+[![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=RichardSouzza&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RichardSouzza&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
