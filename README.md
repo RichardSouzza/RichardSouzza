@@ -11,7 +11,8 @@
 
 - :thinking: Always exploring new technologies.
 - :seedling: Currently learning more about Django.
-- :video_game: Hobby: create games.
+- :mortar_board: Studying Computer Science at Unit
+- :video_game: Hobby: create games
 
 ## Languages and Tools
 <div>
