@@ -9,8 +9,8 @@
   </h1>
 </div>
 
-- :thinking: Always exploring new technologies.
-- :seedling: Currently learning more about Django.
+- :thinking: Always exploring new technologies
+- :seedling: Currently learning more about Django
 - :mortar_board: Studying Computer Science at Unit
 - :video_game: Hobby: create games
 
@@ -22,9 +22,10 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="30px">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" height="30px">
   
-  <h3> Web Frameworks </h3>
+  <h3> Frameworks </h3>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" height="30px">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django" height="30px">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" height="30px">
   
   <h3> Databases </h3>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" height="30px">
