@@ -3,18 +3,18 @@
   <div>
     <h5>
       I'm Richard <br>
-      Back-end developer :man_technologist:
+      The Super Programmer :man_technologist:
     </h5>
   </div>
   </h1>
 </div>
 
 - :thinking: Always exploring new technologies
-- :seedling: Currently learning more about Django
 - :mortar_board: Studying Computer Science at Unit
-- :video_game: Hobby: create games
+- :video_game: Hobby: create games (and playing!)
 
-## Languages and Tools
+## Technologies I've already used
+
 <div>
   <h3> Languages </h3>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="30px">
@@ -24,7 +24,7 @@
   
   <h3> Frameworks </h3>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" height="30px">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django" height="30px">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="30px">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" height="30px">
   
   <h3> Databases </h3>
@@ -36,10 +36,12 @@
 </div>
 
 ## My Stats
+
 [![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=RichardSouzza&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RichardSouzza&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:souzza.richard25@gmail.com)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/richardsouza)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richardsouzza)
