@@ -37,8 +37,10 @@
 
 ## My Stats
 
-[![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=RichardSouzza&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RichardSouzza&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=RichardSouzza&theme=github_light)](https://github.com/RichardSouzza#gh-light-mode-only)
+[![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=RichardSouzza&theme=github_dark)](https://github.com/RichardSouzza#gh-dark-mode-only)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RichardSouzza&layout=compact&theme=github_light)](https://github.com/RichardSouzza#gh-light-mode-only)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RichardSouzza&layout=compact&theme=github_dark)](https://github.com/RichardSouzza#gh-dark-mode-only)
 
 ## Contact
 
