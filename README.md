@@ -3,7 +3,7 @@
   <div>
     <h5>
       I'm Richard <br>
-      The Super Programmer :man_technologist:
+      Software Developer :man_technologist:
     </h5>
   </div>
   </h1>
