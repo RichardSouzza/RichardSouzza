@@ -41,8 +41,9 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" height="30px">
   
   <h3> My favorite distro </h3>
-  <img src="https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff&style=for-the-badge" alt="Fedora" height="30px">
-  <img src="https://img.shields.io/badge/KDE_Plasma-1D99F3?logo=kde&logoColor=fff&style=for-the-badge" alt="KDE Plasma" height="30px">
+  <img src="https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=white&style=for-the-badge" alt="Fedora" height="30px">
+  <img src="https://img.shields.io/badge/%2B-379DE6?&style=for-the-badge" alt="+" height="30px">
+  <img src="https://img.shields.io/badge/KDE_Plasma-1D99F3?logo=kde&logoColor=white&style=for-the-badge" alt="KDE Plasma" height="30px">
 </div>
 
 ## My Stats
@@ -51,7 +52,9 @@
 [![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=RichardSouzza&theme=github_dark)](https://github.com/RichardSouzza#gh-dark-mode-only)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RichardSouzza&layout=compact&langs_count=8&theme=github_light)](https://github.com/RichardSouzza#gh-light-mode-only)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RichardSouzza&layout=compact&langs_count=8&theme=github_dark)](https://github.com/RichardSouzza#gh-dark-mode-only)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RichardSouzza&layout=compact&langs_count=8&theme=github_dark)](https://github.com/RichardSouzza#gh-dark-mode-only)
+
+[![My Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=richardsouzza&layout=compact&langs_count=12&theme=github_light)](https://github.com/RichardSouzza#gh-light-mode-only)
+[![My Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=richardsouzza&layout=compact&langs_count=12&theme=github_dark)](https://github.com/RichardSouzza#gh-dark-mode-only)
 
 ## Contact
 
