@@ -3,13 +3,14 @@
   <div>
     <h5>
       I'm Richard <br>
-      Software Developer :man_technologist:
+      Systems Programmer :man_technologist:
     </h5>
   </div>
   </h1>
 </div>
 
 - :thinking: Always exploring new technologies
+- :rocket: Working and progressing at SergipeTec
 - :mortar_board: Studying Computer Science at Unit
 - :video_game: Hobby: create games (and playing!)
 
@@ -23,6 +24,7 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="30px">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" height="30px">
   <img src="https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=coffeescript&logoColor=white" alt="Java" height="30px">
+  <img src="https://img.shields.io/badge/C%23-7F3788?style=for-the-badge&logo=sharp&logoColor=white" alt="C#" height="30px">
   
   <h3> Frontend Frameworks </h3>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="30px">
@@ -34,10 +36,12 @@
   <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" alt="FastAPI" height="30px">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" height="30px">
   <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt="Spring Boot" height="30px">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".Net" height="30px">
   
   <h3> Databases </h3>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" height="30px">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="30px">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" height="30px">
   
   <h3> DevOps </h3>
   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="30px">
