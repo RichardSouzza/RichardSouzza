@@ -61,8 +61,8 @@
 
 ## My Stats
 
-[![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=RichardSouzza&theme=github_light)](https://github.com/RichardSouzza#gh-light-mode-only)
-[![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=RichardSouzza&theme=github_dark)](https://github.com/RichardSouzza#gh-dark-mode-only)
+[![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=RichardSouzza&theme=github_light&show_icons=true)](https://github.com/RichardSouzza#gh-light-mode-only)
+[![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=RichardSouzza&theme=github_dark&show_icons=true)](https://github.com/RichardSouzza#gh-dark-mode-only)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RichardSouzza&layout=compact&langs_count=8&theme=github_light)](https://github.com/RichardSouzza#gh-light-mode-only)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RichardSouzza&layout=compact&langs_count=8&theme=github_dark)](https://github.com/RichardSouzza#gh-dark-mode-only)
 
