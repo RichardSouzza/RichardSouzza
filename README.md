@@ -22,13 +22,14 @@
   <img src="https://img.shields.io/badge/Java-F80000?logo=coffeescript&logoColor=FFF&style=for-the-badge" alt="Java" height="30px">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" alt="JavaScript" height="30px">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=FFF&style=for-the-badge" alt="TypeScript" height="30px">
+  <img src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=fff&style=for-the-badge" alt="Lua" height="30px">
   <img src="https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=007EC6&style=for-the-badge" alt="Python" height="30px">
   
   <h3> Frontend Frameworks </h3>
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" alt="React" height="30px">
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=FFF&style=for-the-badge" alt="Tailwind CSS" height="30px">
-  <img src="https://img.shields.io/badge/Next%20js-000?logo=nextdotjs&logoColor=FFF&style=for-the-badge" alt="Next.js" height="30px">
-  <img src="https://img.shields.io/badge/NextUI-000?logo=nextui&logoColor=FFF&style=for-the-badge" alt="NextUI" height="30px">
+  <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=FFF&style=for-the-badge" alt="Next.js" height="30px">
+  <img src="https://img.shields.io/badge/HeroUI-000?logo=nextui&logoColor=FFF&style=for-the-badge" alt="HeroUI" height="30px">
   
   <h3> Backend Frameworks </h3>
   <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=FFF&style=for-the-badge" alt=".Net" height="30px">
