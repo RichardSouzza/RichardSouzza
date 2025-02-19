@@ -12,7 +12,7 @@
 - :thinking: Always exploring new technologies
 - :rocket: Working and progressing at SergipeTec
 - :mortar_board: Studying Computer Science at Unit
-- :diving_mask: Dive into the world of open-source technologies
+- :diving_mask: Hobby: diving into the world of open-source technologies
 
 ## Technologies I've already used
 
